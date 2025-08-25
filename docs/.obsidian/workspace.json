@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5b915313faf1d1a3",
+    "id": "dc0d00f2cf4354e1",
     "type": "split",
     "children": [
       {
-        "id": "0dbf92e268d832ff",
+        "id": "77bda5c05c835b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "623b88d788e3431c",
+            "id": "33bc5ab6bb862b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usage.md",
+                "file": "Links and Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "usage"
+              "title": "Links and Resources"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ceec399fbf6df39",
+    "id": "4fbe8c4e8ca2fbfb",
     "type": "split",
     "children": [
       {
-        "id": "04320f61d19d910e",
+        "id": "b02bda752097f980",
         "type": "tabs",
         "children": [
           {
-            "id": "68cdc0df762a2c61",
+            "id": "71801e0cb5fb0a40",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "73d54a74d40f4015",
+            "id": "35049f76f5fbac9e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "863304587e7c0068",
+            "id": "ee7c26d439f1fb69",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba39eb0206d32264",
+    "id": "76bcc5895c0c245c",
     "type": "split",
     "children": [
       {
-        "id": "5cf2a72fab99acca",
+        "id": "d72fcb589f049a54",
         "type": "tabs",
         "children": [
           {
-            "id": "38e6697936d1657b",
+            "id": "2d6c4e625bad215c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usage.md",
+                "file": "Links and Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for usage"
+              "title": "Backlinks for Links and Resources"
             }
           },
           {
-            "id": "6785bcb640f9eb42",
+            "id": "1839fa4c535da009",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "usage.md",
+                "file": "Links and Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from usage"
+              "title": "Outgoing links from Links and Resources"
             }
           },
           {
-            "id": "6558edebd444f30d",
+            "id": "ca83c8780c99271c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "4a45e29de966e884",
+            "id": "2d5a6d170eb85504",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "usage.md",
+                "file": "Links and Resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of usage"
+              "title": "Outline of Links and Resources"
             }
           }
         ]
@@ -169,6 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "623b88d788e3431c",
-  "lastOpenFiles": []
+  "active": "33bc5ab6bb862b9d",
+  "lastOpenFiles": [
+    "Usage.md",
+    "Links and Resources.md"
+  ]
 }
